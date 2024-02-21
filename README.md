@@ -18,7 +18,7 @@ I used the JavaScript programming language, an object-oriented programming langu
 
 # Useful Websites
 
-- [Mdn Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Mdn Web Docs - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [W3Schools](https://www.w3schools.com/js/)
 - [Code Beautify](https://codebeautify.org/jsvalidate)
 
