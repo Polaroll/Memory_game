@@ -6,8 +6,6 @@ The memory game is a grid of squares that start off only lighting up a few squar
 
 I wrote this software to learn more about the JavaScript programming language, as well as learn how to better use html. This was a fun way to challenge myself to learn more about coding on a website.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
